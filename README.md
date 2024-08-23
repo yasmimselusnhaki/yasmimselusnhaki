@@ -1,6 +1,6 @@
 ### BEM VINDO AO MEU PERFIL 🍏
 
-Meu nome é Yasmim Selusnhaki
+Meu nome é _Yasmim Selusnhaki_
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na Programação de Linguaguem
